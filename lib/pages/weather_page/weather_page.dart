@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:lottie/lottie.dart';
-import 'package:weatherapp/bloc/weather_bloc.dart';
+import 'package:weatherapp/pages/weather_page/bloc/weather_bloc.dart';
 import 'package:weatherapp/models/weather_model.dart';
 
 class WeatherPage extends StatefulWidget {
